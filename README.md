@@ -1,4 +1,3 @@
-# rwb-save-bob
 # Save Bob v1.3 – Skill Over Luck
 
 Save Bob is a fast-paced reflex game where precision and timing are everything.
